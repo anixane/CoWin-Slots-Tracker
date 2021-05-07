@@ -1,0 +1,1422 @@
+{
+    "centers": [
+        {
+            "center_id": 7960,
+            "name": "CGHS Dispensary Patparganj PHC",
+            "address": "CGHS Disp.Patparganj, Near Balko Apartment, Delhi",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "28e0d8bb-cd4d-4c1f-8746-8603410cbe84",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "a9af216b-3a3d-42da-8ffa-c3c652225727",
+                    "date": "08-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "91862b00-b0c3-4d09-9f86-414e9e122c22",
+                    "date": "10-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "d547571c-dc19-49e8-beb8-39c68818ac9a",
+                    "date": "11-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 694157,
+            "name": "SKV Anand Vihar Site 3",
+            "address": "SKV Railway Station Anand Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "013bddc8-41d6-4408-b51b-b4084faabdbc",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "83133282-0623-42b0-b536-a2c7bb1f846f",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 695272,
+            "name": "RSK Vidyalaya Laxmi Nagar-3",
+            "address": "11 Guru Angad Nagar West Laxmi Nagar Delhi",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "0b54315f-478d-43f2-b626-2fe2da42c00f",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 694145,
+            "name": "SBV Surajmal Vihar Site 1",
+            "address": "A-BLOCK Surajmal Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "2dc7f957-bc03-4566-a8c4-d1816c76924d",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "b49b0f6a-08d6-4ff4-97a9-631b68310eea",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 693895,
+            "name": "RSKV Vidyalaya W Vinod Nagar-5",
+            "address": "West Vinod Nagar I.P. Extension Patparganj Delhi",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "0146c6e3-0a8a-44fa-a166-bddbf857b34c",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 693884,
+            "name": "RSKV Vidyalaya W Vinod Nagar-2",
+            "address": "West Delhi Vinod Nagar I.P. Extension Patparganj",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "e014a311-d9ea-49d2-aa2b-b088ff5e0267",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 693891,
+            "name": "RSKV Vidyalaya W Vinod Nagar-4",
+            "address": "West Vinod Nagar I.P. Extention Patparganj",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "8deaa19e-0504-4e03-99d6-5e128f3c4639",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 695280,
+            "name": "RSK Vidyalaya Laxmi Nagar-5",
+            "address": "11 Guru Angad Nagar West Laxmi Nagar Delhi",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "8b825bdd-98e3-4b0e-b113-cba8c1c30f18",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 7943,
+            "name": "DGD Bank Enclave PHC",
+            "address": "Bank Enclave Health Centre, Opposite Kothi No 75, Bank Enclave, Laxmi Nagar, Delhi-110092",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "5fbba001-8634-41aa-9327-c58c7e1d2b39",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "5a11c044-c991-4a04-9ec9-b3b794b8fda8",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "7434dca4-c03f-4ff8-bfb8-626b4765e56a",
+                    "date": "08-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "785aafcd-dc23-4873-9243-87160e0a0bea",
+                    "date": "10-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "d091ca1b-efd0-42ce-b7c2-ba4c571b07d4",
+                    "date": "11-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 694148,
+            "name": "SBV Surajmal Vihar Site 3",
+            "address": "SBV A-BLOCK Surajmal Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "24c55d71-f30b-4dec-82e2-ddc0973c3949",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "20b38999-a159-4025-9892-e4dcd4a8a176",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 693889,
+            "name": "RSKV Vidyalaya W Vinod Nagar-3",
+            "address": "West Vinod Nagar I.P. Extension Patparganj",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1d28d32f-9cbd-4b4e-a033-f3bc1b65b297",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 8035,
+            "name": "DGD Surajmal Vihar PHC",
+            "address": "A-Block, Surajmal Vihar, Delhi-92",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "8d98cd17-b4cc-42f0-8553-deeae76d2fc8",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "4ddb1585-c8bb-4650-a9b5-27e6094a7b10",
+                    "date": "08-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 695267,
+            "name": "RSK Vidyalaya Laxmi Nagar-2",
+            "address": "11 Guru Angad Nagar West Laxmi Nagar Delhi",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "c8b86627-b68f-4c4b-baf3-f04cb3d6220a",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 694151,
+            "name": "SBV Surajmal Vihar Site 5",
+            "address": "SBV A-BLOCK Surajmal Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "99ec5afe-07d9-4db1-af63-1f856c09e6df",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "ae9e0bca-8c9c-4f63-91c0-8ffb5e1296a5",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 695275,
+            "name": "RSK Vidyalaya Laxmi Nagar-4",
+            "address": "11 Guru Angad Nagar West Laxmi Nagar Delhi",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "4ba517f9-275c-4c07-ad6e-eb6ab23aa9f3",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 622943,
+            "name": "DGD I.P. Extn.",
+            "address": "Behind Hasanpur DTC Bus Depot Opp. Sidh Apartment",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "a5c8a23b-b0da-4682-a60f-7045c0a640cb",
+                    "date": "06-05-2021",
+                    "available_capacity": 5,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                },
+                {
+                    "session_id": "36591327-0420-4ec6-922a-58f5ad6e4e76",
+                    "date": "08-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "198e4097-773c-4ac7-a095-e3162131c4e2",
+                    "date": "10-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "b816fcfc-9715-452a-9660-d342b4bf379c",
+                    "date": "11-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 694156,
+            "name": "SKV Anand Vihar Site 2",
+            "address": "SKV Railway Station Anand Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "41bbd8c0-1fc1-44c4-922b-25f0e732c458",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "f069a80d-0371-4a72-b503-3f66f469714e",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 560610,
+            "name": "Max Hospital Patparganj",
+            "address": "108, I.P. Extension, Patparganj, Delhi 110092",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "e4fc9bd5-6f2c-4519-a69d-51f3357f4d74",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                },
+                {
+                    "session_id": "e5407f01-abe4-4e1c-8d6b-30709d980f23",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                },
+                {
+                    "session_id": "55c1fbc0-3aca-4602-acb4-7ab0236e5bdd",
+                    "date": "08-05-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                },
+                {
+                    "session_id": "fba1f6dd-76d2-44cf-9044-be0e49382a98",
+                    "date": "10-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                },
+                {
+                    "session_id": "d911d0d0-ff57-45ed-902c-815cbfd5a504",
+                    "date": "11-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                },
+                {
+                    "session_id": "41fcc6a0-87d7-4a2e-bdae-72bf28a2c582",
+                    "date": "12-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "900"
+                }
+            ]
+        },
+        {
+            "center_id": 694147,
+            "name": "SBV Surajmal Vihar Site 2",
+            "address": "SBV A-BLOCK Surajmal Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "4d6e46ad-c8b3-4541-ac74-25f961911993",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "47bb87f6-ac75-46f2-9089-78d964ee6e80",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 694150,
+            "name": "SBV Surajmal Vihar Site 4",
+            "address": "SBV A-BLOCK Surajmal Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "e6b93e60-ed9c-464e-b35f-d1b9590f032a",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "1c24fc1c-b34b-4ab7-98f8-ded10c8563df",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 7979,
+            "name": "MAX HOSPITAL-1",
+            "address": "108, I.P. Extension, Patparganj, Delhi 110092",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "2d82d30c-a93a-43fd-8dfc-0d30549e5c71",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "14ae21e2-8438-4b94-8d38-b507405888f6",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "a9a841a6-c1d4-4c6f-b8d6-f6637bb75398",
+                    "date": "08-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "76f01e81-9790-412f-827c-a24873726662",
+                    "date": "10-05-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "df70dfc8-dd36-4739-82af-1e91847eacc8",
+                    "date": "11-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "fe687a96-79d2-471b-847e-89a38105bb3f",
+                    "date": "12-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "900"
+                }
+            ]
+        },
+        {
+            "center_id": 7964,
+            "name": "MCW Vishwakarma Park PHC",
+            "address": "HEALTH CENTRE VISHWAKARMA PARK, NEAR MCD PRIMARY SCHOOL, KRISHAN KUNJ",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "89d46573-866a-411f-b877-622ac672dcfe",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "e5e97af4-9106-4a9d-8ce2-8d4ee44be6cd",
+                    "date": "08-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "ea87ea62-6d5c-4c9e-915a-3a6a74ea6070",
+                    "date": "10-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "202a81fb-2bef-4c2f-881d-9b2b8767fd3a",
+                    "date": "11-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 695265,
+            "name": "RSK Vidyalaya Laxmi Nagar-1",
+            "address": "11 Guru Angad Nagar West Laxmi Nagar Delhi",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "f49d7346-e2e8-4a9d-b889-e524262b9176",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-02:00PM",
+                        "02:00PM-04:00PM",
+                        "04:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 694154,
+            "name": "SKV Anand Vihar Site 1",
+            "address": "SKV Railway Station Anand Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "48f8e2f2-4757-4d2e-bcc7-11151840c781",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "ba4844e7-4bb7-4556-b94a-9556d7c9ff00",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 560528,
+            "name": "METRO HOSPITAL CANCER INSTT",
+            "address": "21, 22 COMMUNITY CENTER PREET VIHAR, NEW DELHI,110092",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 0,
+            "long": 0,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "5a32663e-de86-4f4a-b8f5-f9771948879f",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                },
+                {
+                    "session_id": "262ea528-2f29-4107-b78b-475d28139787",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                },
+                {
+                    "session_id": "d723b8b9-c5e6-49ed-a535-5ab24ee46664",
+                    "date": "08-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 694158,
+            "name": "SKV Anand Vihar Site 4",
+            "address": "SKV Railway Station Anand Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "d1d7760a-8a4e-47f6-94cc-f0e1a7fbbf3b",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "2ccbd063-2819-4d5c-b98c-793a8bd4e69c",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 7959,
+            "name": "CGHS Dispensary Laxmi Nagar",
+            "address": "CGHS Building, H-Block,Vikas Marg, Laxmi Nagar, Delhi",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "56f677ed-294d-4c3e-a728-f55f1f8cf701",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "c17b2ac2-e02c-44e9-8ea1-8b78f9b786c6",
+                    "date": "08-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "18a33eb8-d399-43c3-9333-e7b2714f79c9",
+                    "date": "10-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "6e6c9a4c-2673-4c3a-bada-3e561d0994a8",
+                    "date": "11-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 693880,
+            "name": "RSKV Vidyalaya W Vinod Nagar-1",
+            "address": "West Vinod Nagar I.P. Extension Patparganj Delhi",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "84e45730-3741-4ea1-9c1b-24862623093c",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 694159,
+            "name": "SKV Anand Vihar Site 5",
+            "address": "SKV Railway Station Anand Vihar",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "ad481935-6b4e-47ce-a7ad-0b6f3b7dcec9",
+                    "date": "06-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                },
+                {
+                    "session_id": "78faa03d-8902-4c48-83ed-080a04bf0e22",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 560802,
+            "name": "SHANTI MUKAND HOSPITAL",
+            "address": "2, INSTITUTIONAL AREA, VIKAS MARG EXTENSION, KARKARDOOMA, DELHI 110092SHANTI MUKAND HOSPITAL",
+            "state_name": "Delhi",
+            "district_name": "Shahdara",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "21:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "c284a935-9c72-4f3c-b12e-4d21fb36e03a",
+                    "date": "07-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-12:00PM",
+                        "12:00PM-03:00PM",
+                        "03:00PM-06:00PM",
+                        "06:00PM-09:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 614145,
+            "name": "Rs Grover Memorial Hospital",
+            "address": "B-243, Priyadarshini Viahr",
+            "state_name": "Delhi",
+            "district_name": "East Delhi",
+            "block_name": "Not Applicable",
+            "pincode": 110092,
+            "lat": 28,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "21:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "1b041a5a-9150-4178-b666-50b39a96a76b",
+                    "date": "08-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-12:00PM",
+                        "12:00PM-03:00PM",
+                        "03:00PM-06:00PM",
+                        "06:00PM-09:00PM"
+                    ]
+                }
+            ]
+        }
+    ]
+}
